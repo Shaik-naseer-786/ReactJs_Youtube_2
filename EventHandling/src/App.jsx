@@ -19,7 +19,7 @@ function App() {
         <ClassClick></ClassClick> */}
         {/* <Bind></Bind> */}
         {/* <ParentComponent></ParentComponent> */}
-        <UserGreeting></UserGreeting>
+        {/* <UserGreeting></UserGreeting> */}
       </div>
     </>
   )
